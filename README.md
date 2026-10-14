@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**mittbytes/mittbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<#I'm a Beginner Cybersecurity Learner 👋
 
-Here are some ideas to get you started:
+I'm an student building my foundations in cybersecurity, Python, Linux, and computer networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### Currently Learning
+- Python programming
+- Linux and command-line tools
+- Computer networking
+- Cybersecurity fundamentals and CTF challenges
+
+### Projects
+- **File Hash Checker** — Python project using SHA-256 to verify file integrity.
+- **Password Analyser** — Beginner Python project for analysing password strength.
+
+### Current Goals
+- Improve my problem-solving and programming skills.
+- Practise hands-on cybersecurity challenges.
+- Build projects that I understand, document, and can explain.
+
+I'm documenting my progress as I learn.!--
+
 - ⚡ Fun fact: ...
 -->
