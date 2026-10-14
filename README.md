@@ -20,6 +20,4 @@ I'm an student building my foundations in cybersecurity, Python, Linux, and comp
 - Build projects that I understand, document, and can explain.
 
 I'm documenting my progress as I learn.!--
-
-- ⚡ Fun fact: ...
 -->
